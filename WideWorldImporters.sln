@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WideWorldImporters.Server", "WideWorldImporters.Server\WideWorldImporters.Server.csproj", "{F193A88E-49EF-42DA-ACAF-094BB6C38552}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "wideworldimporters.client", "wideworldimporters.client\wideworldimporters.client.esproj", "{0B6636A7-19E5-4E6B-A9D2-AA20B58F7FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F193A88E-49EF-42DA-ACAF-094BB6C38552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F193A88E-49EF-42DA-ACAF-094BB6C38552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F193A88E-49EF-42DA-ACAF-094BB6C38552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F193A88E-49EF-42DA-ACAF-094BB6C38552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6636A7-19E5-4E6B-A9D2-AA20B58F7FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6636A7-19E5-4E6B-A9D2-AA20B58F7FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6636A7-19E5-4E6B-A9D2-AA20B58F7FE2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0B6636A7-19E5-4E6B-A9D2-AA20B58F7FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6636A7-19E5-4E6B-A9D2-AA20B58F7FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6636A7-19E5-4E6B-A9D2-AA20B58F7FE2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCC895D-C9B0-4421-A0C7-FEC844AED78C}
+	EndGlobalSection
+EndGlobal
